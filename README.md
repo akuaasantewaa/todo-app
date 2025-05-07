@@ -20,4 +20,4 @@ A simple and responsive To-Do application built with **HTML**, **CSS**, and **Ja
 
 1. Clone this repository 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+(https://github.com/akuaasantewaa/todo-app.git)
